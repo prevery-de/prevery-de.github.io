@@ -1,10 +1,3 @@
-const stats = [
-    { label: 'Founded', value: '2021' },
-    { label: 'Employees', value: '37' },
-    { label: 'Countries', value: '12' },
-    { label: 'Raised', value: '$25M' },
-]
-
 export default function Vision() {
     return (
         <div className="bg-white py-24 sm:py-32">
