@@ -1,6 +1,6 @@
 const navigation = {
     main: [
-        { name: 'Impressum', href: '/imprint' }
+        { name: 'Impressum', href: '#/imprint' }
     ],
     social: [
         // {
