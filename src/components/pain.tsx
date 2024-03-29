@@ -1,27 +1,27 @@
 const features = [
     {
-        name: 'Gesundheitssystem ist nach wie vor pathogenetisch aufgebau',
-        description: 'Transformation zu einem salutogenetischen System zur Entlastung des kurativen Systems'
+        name: 'Ein auf Krankheit fokussiertes “Gesundheitssystem“',
+        description: 'Fokus auf Gesundheitsförderung und Prävention zur Entlastung des kurativen Systems'
     },
     {
-        name: 'Mangel an Zeit sowie Vergütungsoptionen bei Ärzt:innen für sprechende Medizin',
-        description:'Nutzung bereits etablierter Finanzierungsmodelle & Schaffung von Win-Win-Situationen'
+        name: 'Weder Zeit noch Vergütung für sprechende Medizin',
+        description:'Nutzung bereits etablierter Vergütungsmodelle & Schaffung von Win-Win-Situationen'
     },
     {
-        name: 'Unzureichende Interprofessionalität & Vernetzung',
-        description: 'Vernetzung bereits etablierter Player und Teillösungen'
+        name: 'Unzureichende interprofessionelle Zusammenarbeit',
+        description: 'Vernetzung bereits etablierter Akteure und Teillösungen'
     },
     {
-        name: 'Komplexität & unübersichtliches Überangebot an Präventionsleistungen',
-        description:'DER interaktive Guide mit einfacher Handhabung sowie nutzerorientierter und wertschätzender Kommunikation'
+        name: 'Ein undurchsichtiger Dschungel an Präventionsleistungen & Handlungsempfehlungen',
+        description:'DER interaktive Guide zur Etablierung & Aufrechterhaltung eines gesunden Lebenstils'
     },
     {
-        name: 'one-fits-all Ansatz anstelle individueller Lösungen',
-        description: 'Individueller, nachhaltiger & ganzheitlicher Ansatz'
+        name: 'One-fits-all Ansatz anstelle individueller Lösungen',
+        description: 'Individuell-ganzheitlicher & somit nachhaltiger Ansatz'
     },
     {
-        name: 'Mangel an Gesundheitskompetenz & Selbstwirksamkeit',
-        description: 'Förderung von Gesundheitskompetenz & Selbstwirksamkeit'
+        name: 'mangelnde Gesundheitskompetenz & Selbstwirksamkeit der Bürger:innen',
+        description: 'Förderung von individueller Gesundheitskompetenz & Selbstwirksamkeit'
     },
 ]
 
@@ -32,7 +32,7 @@ export default function Pain() {
                 <div className="mx-auto max-w-3xl lg:mx-0">
                     <h2 className="font-asap text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">Pain Points & Solutions</h2>
                     <p className="font-varela mt-6 text-lg leading-8 text-gray-600">
-                        Um das Gesundheitssystem zu entlasten, ist eine Verschiebung hin zur Gesundheitsförderung und bessere Vernetzung im Gesundheitssektor nötig. Individuelle, ganzheitliche Ansätze sollten standardisierte Lösungen ersetzen.
+                        Um das kurative Gesundheitssystem zu entlasten, ist eine Verschiebung hin zur Gesundheitsförderung und eine bessere Vernetzung im Gesundheitssektor nötig. Individuelle & ganzheitliche Ansätze sollten standardisierte Lösungen ersetzen.
                     </p>
                 </div>
                 <dl className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 text-base leading-7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
