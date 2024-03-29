@@ -17,7 +17,7 @@ const router = createBrowserRouter([
     }
 
 ], {
-    basename: '/prevery-brand-page/',
+    basename: '/prevery-de.github.io/',
 })
 
 
