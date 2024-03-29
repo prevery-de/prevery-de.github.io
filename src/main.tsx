@@ -16,9 +16,7 @@ const router = createBrowserRouter([
         element: <Imprint />,
     }
 
-], {
-    basename: '/prevery-de.github.io/',
-})
+])
 
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
