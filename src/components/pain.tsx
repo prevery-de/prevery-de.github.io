@@ -1,27 +1,27 @@
 const features = [
     {
         name: 'Ein auf Krankheit fokussiertes “Gesundheitssystem“',
-        description: 'Fokus auf Gesundheitsförderung und Prävention zur Entlastung des kurativen Systems'
+        description: 'prevery setzt den Fokus auf Gesundheitsförderung und Prävention zur Entlastung des kurativen Systems'
     },
     {
         name: 'Weder Zeit noch Vergütung für sprechende Medizin',
-        description:'Nutzung bereits etablierter Vergütungsmodelle & Schaffung von Win-Win-Situationen'
+        description:'prevery nutzt bereits etablierte Vergütungsmodelle und schafft Win-Win-Situationen'
     },
     {
         name: 'Unzureichende interprofessionelle Zusammenarbeit',
-        description: 'Vernetzung bereits etablierter Akteure und Teillösungen'
+        description: 'prevery vernetzt bereits etablierte Akteure und Teillösungen'
     },
     {
         name: 'Ein undurchsichtiger Dschungel an Präventionsleistungen & Handlungsempfehlungen',
-        description:'DER interaktive Guide zur Etablierung & Aufrechterhaltung eines gesunden Lebenstils'
+        description:'prevery ist DER interaktive Guide zur Etablierung & Aufrechterhaltung eines gesunden Lebenstils'
     },
     {
         name: 'One-fits-all Ansatz anstelle individueller Lösungen',
-        description: 'Individuell-ganzheitlicher & somit nachhaltiger Ansatz'
+        description: 'prevery bietet einen individuell-ganzheitlichen & somit nachhaltigen Ansatz'
     },
     {
-        name: 'mangelnde Gesundheitskompetenz & Selbstwirksamkeit der Bürger:innen',
-        description: 'Förderung von individueller Gesundheitskompetenz & Selbstwirksamkeit'
+        name: 'Mangelnde Gesundheitskompetenz & Selbstwirksamkeit der Bürger:innen',
+        description: 'prevery fördert die individuelle Gesundheitskompetenz & Selbstwirksamkeit'
     },
 ]
 
