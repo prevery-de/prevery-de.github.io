@@ -6,13 +6,13 @@ import {
 
 const features = [
     {
-        name: 'Maßgeschneiderte Gesundheitsstrategie',
+        name: 'Individuelle Gesundheitsanalyse',
         description:
             'Wir helfen Dir dabei, Deine individuelle Lösung für  Deine Gesundheit zu finden, indem wir Dir einen KI-gestützten personalisierten Gesundheitsstatus erstellen und darauf basierend personalisierte Handlungsempfehlungen aufzeigen. ',
         icon: UserCircleIcon,
     },
     {
-        name: 'Personalisierte Gesundheitsführung',
+        name: 'Persönliches Präventionsteam',
         description: 'Wir betreuen Dich ganzheitlich durch die Erstellung eines individuellen Expertenteams bestehend aus Ärzt:innen, systemischen Coaches und Gesundheitskursanbieter:innen.',
         icon: UserGroupIcon,
     },
@@ -32,7 +32,7 @@ export default function Services() {
                         Our Services
                     </h2>
                     <p className="font-varela font-normal mt-6 text-lg leading-8 text-gray-600">
-                        Erleben Sie maßgeschneiderte Gesundheitsförderung, die Ihre persönlichen Bedürfnisse durch individuelle Gesundheitsanalysen, Expertenbetreuung und tägliche Motivation in den Fokus stellt.
+                        Erlebe für Dich maßgeschneiderte Gesundheitsförderung und Prävention, die Deine persönlichen Bedürfnisse durch individuelle Gesundheitsanalysen, Expertenbetreuung und tägliche Begleitung sowie Motivation in den Fokus stellt.
                     </p>
                 </div>
                 <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
