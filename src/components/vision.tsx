@@ -10,13 +10,13 @@ export default function Vision() {
                                 src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 alt=""
                             />
-                            <div className="absolute inset-0 bg-gray-900 mix-blend-multiply" />
+                            <div className="absolute inset-0 bg-gray-700 mix-blend-multiply" />
                             <div
                                 className="absolute left-1/2 top-1/2 -ml-16 -translate-x-1/2 -translate-y-1/2 transform-gpu blur-3xl"
                                 aria-hidden="true"
                             >
                                 <div
-                                    className="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-prevery-200 to-prevery-600 opacity-40"
+                                    className="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-prevery-200 to-prevery-600 opacity-60"
                                     style={{
                                         clipPath:
                                             'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)',
@@ -49,7 +49,7 @@ export default function Vision() {
                     </div>
                     <div>
                         <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
-                            <h1 className="font-asap font-normal uppercase mt-2 text-3xl tracking-tight text-gray-900 sm:text-4xl">
+                            <h1 className="font-asap font-normal mt-2 text-3xl tracking-tight text-gray-900 sm:text-4xl">
                                 Our Vision
                             </h1>
                             <div className="max-w-xl">
@@ -57,7 +57,7 @@ export default function Vision() {
                                     Unsere Vision ist es, das Gesundheitssystem sinn- und werteorientiert zu transformieren, indem wir durch eine personalisierte und somit nachhaltige Prävention und Gesundheitsförderung die individuelle und infolgedessen die gesamtgesellschaftliche Gesundheit fördern und dadurch das kurative und auf Krankheit konzentrierte System langfristig  entlasten.
                                 </p>
                             </div>
-                            <h1 className="font-asap mt-10 text-3xl font-normal uppercase tracking-tight text-gray-900 sm:text-4xl">
+                            <h1 className="font-asap mt-10 text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
                                 Our Mission
                             </h1>
                             <div className="max-w-xl">

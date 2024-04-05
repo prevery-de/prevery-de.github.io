@@ -27,7 +27,7 @@ const features = [
 
 export default function Pain() {
     return (
-        <div className="bg-[#FEFEFE] py-24 sm:py-32 bg-gradient-to-b from-prevery-50 to-white md:m-20 rounded-2xl">
+        <div className="bg-[#FEFEFE] py-24 sm:py-32 bg-gradient-to-b from-prevery-50 to-white md:m-8 rounded-2xl">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-3xl lg:mx-0">
                     <h2 className="font-asap text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">Pain Points & Our Solutions</h2>

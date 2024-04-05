@@ -118,7 +118,7 @@ export default function Hero() {
                         <div className="mt-10 flex items-center gap-x-6">
                             <a
                                 href="mailto:hey@prevery.de"
-                                className="rounded-md bg-prevery-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-prevery-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                                className="rounded-md bg-prevery-600 bezel bg-gradient-to-b hover:bg-gradient-to-t from-prevery-500 to-prevery-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-prevery-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                             >
                                 Kontaktiere uns
                             </a>
