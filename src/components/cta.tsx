@@ -7,7 +7,7 @@ export default function CTA() {
                         Ready to take control of your health?
                     </h2>
                     <p className="font-varela mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">
-                        Hat prevery Dein Interesse geweckt? Dann schreibe uns doch gerne eine E-Mail und wir listen Dich als mögliche:r
+                        Hat prevery Dein Interesse geweckt? Dann schreibe Uns doch gerne eine E-Mail und Du kannst mögliche:r
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         <a
