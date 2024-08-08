@@ -50,7 +50,7 @@ export default function Vision() {
                     <div>
                         <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
                             <h1 className="font-asap font-normal mt-2 text-3xl tracking-tight text-gray-900 sm:text-4xl">
-                                Our Vision
+                                Unsere Vision
                             </h1>
                             <div className="max-w-xl">
                                 <p className="mt-6">
@@ -63,11 +63,15 @@ Unser Fokus liegt daher auf einer individualisierten, präventiven und ganzheitl
                                 </p>
                             </div>
                             <h1 className="font-asap mt-10 text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
-                                Our Mission
+                                Unsere Mission
                             </h1>
                             <div className="max-w-xl">
                                 <p className="mt-6">
-                                    Unser Ziel ist es, deine Gesundheitskompetenz sowie deine Selbstwirksamkeit mittels hybrider Unterstützung zu stärken, sodass Du wieder im Mittelpunkt deiner eigenen Gesundheitsversorgung stehst. Indem Du zu deinem/r eigenen Gesundheitsexperten/in wirst, kannst Du einen nachhaltig gesunden Lebensstil effektiv etablieren und aufrechterhalten und wirst mit Hilfe von prevery durch den Dschungel des aktuellen „Gesundheitssystems“ geleitet.
+                                    Unsere Mission ist es, unsere Nutzer:innen dabei zu unterstützen, zu ihren eigenen Gesundheitsexpert:inen zu werden und sie durch das komplexe Gesundheitssystem zu lotsen. Wir ermächtigen unsere Nutzer:innen daher, Gesundheit an sich und bezogen auf sich selbst zu verstehen, sodass sie in der Lage sind, ihre Gesundheit selbst in die Hand zu nehmen. 
+
+Durch die Verbindung von Künstlicher Intelligenz mit einer benutzerfreundlichen Plattform umfasst unsere Strategie eine digitale, personalisierte Lösung, welche die Gesundheitskompetenz und Selbstwirksamkeit der Nutzer:innen erhöht. 
+
+Mithilfe von KI-gestützten Coaching-, Lotsen- Diagnostik- und Teaching-Funktionen unterstützen wir die Entwicklung eines nachhaltig gesunden Lebensstils.
                                 </p>
                             </div>
                         </div>
