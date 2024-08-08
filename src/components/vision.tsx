@@ -54,7 +54,12 @@ export default function Vision() {
                             </h1>
                             <div className="max-w-xl">
                                 <p className="mt-6">
-                                    Unsere Vision ist es, das Gesundheitssystem sinn- und werteorientiert zu transformieren, indem wir durch eine personalisierte und somit nachhaltige Prävention und Gesundheitsförderung die individuelle und infolgedessen die gesamtgesellschaftliche Gesundheit fördern und dadurch das kurative und auf Krankheit konzentrierte System langfristig  entlasten.
+                                    Wir sind ein Unternehmen, das die Vorstellung verfolgt, dass jeder Mensch im Mittelpunkt der eigenen Gesundheitsversorgung stehen muss und sein/ihr eigener Gesundheitsexperte/in sein sollte. 
+
+Unser Ziel ist es, die individuelle und gesamtgesellschaftliche Gesundheit zu verbessern, chronischen Erkrankungen vorzubeugen und das bestehende kurative System langfristig zu entlasten.
+Hierfür stärken wir die Gesundheitskompetenz und Selbstwirksamkeit, um somit einen gesunden Lebensstil flächendeckend zu etablieren.
+
+Unser Fokus liegt daher auf einer individualisierten, präventiven und ganzheitlichen Gesundheitsversorgung.
                                 </p>
                             </div>
                             <h1 className="font-asap mt-10 text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
