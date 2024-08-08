@@ -113,7 +113,8 @@ export default function Hero() {
                             </span>
                         </h1>
                         <p className="font-varela mt-6 text-lg leading-8 text-gray-600">
-                            prevery bietet den Nutzer:innen durch eine Plattform- und App-Lösung mit KI-gestützten Coaching-, Lotsen-, Diagnostik- und Teaching-Funktionen die Möglichkeit, die eigene Gesundheitskompetenz sowie Selbstwirksamkeit zu steigern und somit zum eigenen Gesundheitsexperten zu werden.
+                            prevery bietet Dir durch eine Plattform- und App-Lösung mit KI-gestützten Coaching-, Lotsen-, Diagnostik- und Teaching-Funktionen die Möglichkeit, deine Gesundheitskompetenz sowie Selbstwirksamkeit zu steigern und somit zu deiner/m eigenen Gesundheitsexpertin/en zu werden.
+                            Wir verfolgen dabei einen individualisierten und ganzheitlichen Ansatz, um Dich möglichst nachhaltig und effektiv bei deinem gesunden Lebensstil zu unterstützen. 
                                                     </p>
                         <div className="mt-10 flex items-center gap-x-6">
                             <a
