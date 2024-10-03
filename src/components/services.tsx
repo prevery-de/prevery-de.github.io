@@ -28,10 +28,10 @@ export default function Services() {
         <div className="bg-white py-24 sm:py-32">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl lg:mx-0">
-                    <h2 className="font-asap text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
+                    <h2 className="font-ubuntu text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
                         Our Services
                     </h2>
-                    <p className="font-varela font-normal mt-6 text-lg leading-8 text-gray-600">
+                    <p className="font-ubuntu font-normal mt-6 text-lg leading-8 text-gray-600">
                         Erlebe eine für Dich maßgeschneiderte Gesundheitsförderung und Prävention, die Deine persönlichen Bedürfnisse durch individuelle Gesundheitsanalysen, Expertenbetreuung und tägliche Begleitung sowie Motivation in den Fokus stellt.
                     </p>
                 </div>

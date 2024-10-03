@@ -49,7 +49,7 @@ export default function Vision() {
                     </div>
                     <div>
                         <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
-                            <h1 className="font-asap font-normal mt-2 text-3xl tracking-tight text-gray-900 sm:text-4xl">
+                            <h1 className="font-ubuntu font-normal mt-2 text-3xl tracking-tight text-gray-900 sm:text-4xl">
                                 Unsere Vision
                             </h1>
                             <div className="max-w-xl">
@@ -62,7 +62,7 @@ Hierfür stärken wir die Gesundheitskompetenz und Selbstwirksamkeit, um somit e
 Unser Fokus liegt daher auf einer individualisierten, präventiven und ganzheitlichen Gesundheitsversorgung.
                                 </p>
                             </div>
-                            <h1 className="font-asap mt-10 text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
+                            <h1 className="font-ubuntu mt-10 text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
                                 Unsere Mission
                             </h1>
                             <div className="max-w-xl">
