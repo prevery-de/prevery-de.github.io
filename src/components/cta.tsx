@@ -16,8 +16,12 @@ export default function CTA() {
                         >
                             Testkunde/in werden
                         </a>
-                        <a href="mailto:kooperationspartner@prevery.de" className="text-sm font-semibold leading-6 text-white ring-white ring-1 p-2 rounded-md">
-                            Kooperationspartner:in werden
+                        <a
+                            href="mailto:kooperationspartner@prevery.de"
+                            className="text-sm font-semibold leading-6 text-white ring-white ring-1 p-2 rounded-md
+             transition duration-300 ease-in-out
+             hover:bg-white hover:text-black"
+                        > Kooperationspartner:in werden
                         </a>
                     </div>
                     <svg
