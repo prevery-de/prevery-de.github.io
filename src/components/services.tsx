@@ -8,7 +8,7 @@ const features = [
     {
         name: 'Individuelle Gesundheitsanalyse',
         description:
-            'Wir helfen Dir dabei, Deine personalisierte Lösung für Deine Gesundheit zu finden, indem wir Dir einen leitliniengerechten und KI-gestützten personalisierten Gesundheitsstatus erstellen und darauf basierend personalisierte Handlungsempfehlungen aufzeigen. ',
+            'Wir helfen Dir dabei, Deine individuelle Lösung für Deine Gesundheit zu finden, indem wir Dir dein Gesundheitsverhalten KI-gestützt analysieren und Dir darauf basierend personalisierte Handlungsempfehlungen aufzeigen. Hierfür orientieren wir uns stets an aktuellen Leitlinien und Empfehlungen.',
         icon: UserCircleIcon,
     },
     {
