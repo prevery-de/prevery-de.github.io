@@ -14,12 +14,12 @@ const features = [
     {
         name: 'Ganzheitliche Betreuung',
         description: 'Durch die Berücksichtigung aller gesundheitsrelevanten Lebensbereiche können wir dich effektiv und nachhaltig bei einem gesunden Lebensstil unterstützen. Wir versorgen Dich zusätzlich mit Schulungsmaterialien, Tageschallenges sowie einer Experten- und Communitystruktur.',
-        icon: UserGroupIcon,
+        icon: ArrowPathIcon,
     },
     {
         name: 'KI-Gesundheitscoaching',
-        description: 'Unser KI-Coach "EVE" begleitet dich in deinem Alltag und kann jederzeit auf deine Bedürfnisse eingehen. Zudem hilft Dir die Lotsenfunktion, dich in dem komplexen Gesundheitssystem zurechtzufinden.',
-        icon: ArrowPathIcon,
+        description: 'Unser KI-Coach "EVE" begleitet dich in deinem Alltag und kann jederzeit auf deine individuellen Bedürfnisse eingehen und somit deine Gesundheitskompetenz und Selbstwirksamkeit stärken. Zudem hilft Dir die Lotsenfunktion, dich in dem komplexen Gesundheitssystem zurechtzufinden.',
+        icon: UserGroupIcon,
     },
 ]
 
