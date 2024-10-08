@@ -8,17 +8,17 @@ const features = [
     {
         name: 'Individuelle Gesundheitsanalyse',
         description:
-            'Wir helfen Dir dabei, Deine individuelle Lösung für  Deine Gesundheit zu finden, indem wir Dir einen KI-gestützten personalisierten Gesundheitsstatus erstellen und darauf basierend personalisierte Handlungsempfehlungen aufzeigen. ',
+            'Wir helfen Dir dabei, Deine personalisierte Lösung für Deine Gesundheit zu finden, indem wir Dir einen leitliniengerechten und KI-gestützten personalisierten Gesundheitsstatus erstellen und darauf basierend personalisierte Handlungsempfehlungen aufzeigen. ',
         icon: UserCircleIcon,
     },
     {
-        name: 'Persönliches Präventionsteam',
-        description: 'Wir betreuen Dich ganzheitlich durch die Erstellung eines individuellen Expertenteams bestehend aus Ärzt:innen, systemischen Coaches und Gesundheitskursanbieter:innen.',
+        name: 'Ganzheitliche Betreuung',
+        description: 'Durch die Berücksichtigung aller gesundheitsrelevanten Lebensbereiche können wir dich effektiv und nachhaltig bei einem gesunden Lebensstil unterstützen. Wir versorgen Dich zusätzlich mit Schulungsmaterialien, Tageschallenges sowie einer Experten- und Communitystruktur.',
         icon: UserGroupIcon,
     },
     {
-        name: 'Ganzheitliche Betreuung',
-        description: 'Dein gesunder Lebensstil wird durch prevery hybrid (digital & in Präsenz) begleitet, indem Wir Dich täglich mit Schulungsmaterialien, Tageschallenges sowie einer Communityfunktion unterstützen.',
+        name: 'KI-Gesundheitscoaching',
+        description: 'Unser KI-Coach "EVE" begleitet dich in deinem Alltag und kann jederzeit auf deine Bedürfnisse eingehen. Zudem hilft Dir die Lotsenfunktion, dich in dem komplexen Gesundheitssystem zurechtzufinden.',
         icon: ArrowPathIcon,
     },
 ]
@@ -29,7 +29,7 @@ export default function Services() {
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl lg:mx-0">
                     <h2 className="font-ubuntu text-3xl font-normal tracking-tight text-gray-900 sm:text-4xl">
-                        Our Services
+                        Unser Leistungsangebot
                     </h2>
                     <p className="font-ubuntu font-normal mt-6 text-lg leading-8 text-gray-600">
                         Erlebe eine für Dich maßgeschneiderte Gesundheitsförderung und Prävention, die Deine persönlichen Bedürfnisse durch individuelle Gesundheitsanalysen, Expertenbetreuung und tägliche Begleitung sowie Motivation in den Fokus stellt.
